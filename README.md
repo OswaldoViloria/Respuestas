@@ -8,4 +8,4 @@
 
 # What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
    
-  -Cuando se trabaja con Git, solo se puede verificar una rama a la vez , y esto es lo que se llama la rama HEAD. A menudo, esto también se conoce como la rama activa o actual
+  -Head hace referecia al ultimo commit confirmado.
